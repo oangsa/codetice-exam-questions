@@ -1,0 +1,6 @@
+5
+CREATE Attacker Messi 25
+CREATE Defender Silva 20
+ACTION Messi shoot
+ACTION Silva tackle
+ACTION Messi shoot
