@@ -1,0 +1,3 @@
+Messi shoots the ball! Stamina left: 15
+Silva tackles! Stamina left: 5
+Messi shoots the ball! Stamina left: 5
