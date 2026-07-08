@@ -1,5 +1,7 @@
 # Password Strength Filter
 
+**Difficulty:** Medium
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อตรวจสอบ password strength

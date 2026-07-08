@@ -1,5 +1,7 @@
 # Library Borrowing System
 
+**Difficulty:** Medium
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อจำลองระบบยืม-คืนหนังสือใน library

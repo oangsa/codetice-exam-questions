@@ -1,5 +1,7 @@
 # Digital Piggy Bank
 
+**Difficulty:** Easy
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อจำลอง piggy bank ของผู้ใช้ 1 คน

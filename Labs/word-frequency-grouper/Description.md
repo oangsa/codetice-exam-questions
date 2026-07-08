@@ -1,5 +1,7 @@
 # Word Frequency Grouper
 
+**Difficulty:** Medium
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อ analyze text 1 บรรทัด

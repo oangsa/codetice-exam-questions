@@ -1,5 +1,7 @@
 # Shopping Cart Manager
 
+**Difficulty:** Hard
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อจัดการ shopping cart อย่างง่าย

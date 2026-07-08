@@ -1,5 +1,7 @@
 # Digital Pet Care
 
+**Difficulty:** Medium
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อจำลอง digital pet 1 ตัว

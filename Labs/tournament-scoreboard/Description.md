@@ -1,5 +1,7 @@
 # Tournament Scoreboard
 
+**Difficulty:** Hard
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อสรุป standings จากผลการแข่งขัน

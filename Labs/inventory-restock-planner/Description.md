@@ -1,5 +1,7 @@
 # Inventory Restock Planner
 
+**Difficulty:** Easy
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อช่วยร้านค้าคำนวณแผน restock

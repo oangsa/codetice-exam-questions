@@ -1,5 +1,7 @@
 # Bank Command Simulation
 
+**Difficulty:** Hard
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อจำลองการทำงานของ bank account ผ่านชุด command

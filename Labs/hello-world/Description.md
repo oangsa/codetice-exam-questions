@@ -1,5 +1,7 @@
 # Hello World Test
 
+**Difficulty:** Easy
+
 โจทย์สำหรับ test ระบบตรวจ
 
 ## Input

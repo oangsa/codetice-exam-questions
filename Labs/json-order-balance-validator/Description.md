@@ -1,5 +1,7 @@
 # Order Balance Validator
 
+**Difficulty:** Medium
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่ออ่านข้อมูล order 1 รายการ แล้วตรวจสอบว่า customer มี balance เพียงพอสำหรับซื้อ item ทั้งหมดหรือไม่

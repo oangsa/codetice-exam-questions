@@ -1,5 +1,7 @@
 # Smart Temperature Converter
 
+**Difficulty:** Easy
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อ convert ค่า temperature 1 ค่า จาก unit หนึ่งไปเป็นอีก unit หนึ่ง

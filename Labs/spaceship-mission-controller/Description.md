@@ -1,5 +1,7 @@
 # Spaceship Mission Controller
 
+**Difficulty:** Medium
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อตรวจสอบว่า spaceship 1 ลำ สามารถออกเดินทางทำ mission 1 mission ได้หรือไม่

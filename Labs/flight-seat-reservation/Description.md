@@ -1,5 +1,7 @@
 # Flight Seat Reservation
 
+**Difficulty:** Medium
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อจัดการ seat reservation request สำหรับ flight 1 เที่ยว

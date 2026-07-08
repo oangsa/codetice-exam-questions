@@ -1,5 +1,7 @@
 # Robot Battery Tracker
 
+**Difficulty:** Medium
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อจำลองการเคลื่อนที่ของ robot บนพิกัด 2 มิติ

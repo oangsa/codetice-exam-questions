@@ -1,5 +1,7 @@
 # Stock Portfolio Simulator
 
+**Difficulty:** Hard
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อจำลองการซื้อขาย stock อย่างง่ายใน portfolio

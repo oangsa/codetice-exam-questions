@@ -1,5 +1,7 @@
 # Movie Ticket Counter
 
+**Difficulty:** Medium
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อจำลอง ticket counter ของโรงหนัง

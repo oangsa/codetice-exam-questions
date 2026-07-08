@@ -1,5 +1,7 @@
 # Coupon Price Calculator
 
+**Difficulty:** Easy
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อคำนวณยอดซื้อสินค้าและ coupon

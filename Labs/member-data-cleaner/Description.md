@@ -1,5 +1,7 @@
 # Member Data Cleaner
 
+**Difficulty:** Medium
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อตรวจสอบ member data และแยก valid member ออกจาก invalid member

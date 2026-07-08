@@ -1,5 +1,7 @@
 # Locker Log Analyzer
 
+**Difficulty:** Hard
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อวิเคราะห์ rental log ของ locker และแสดง status ล่าสุดของ locker ทุกตู้ที่เคยปรากฏในข้อมูล

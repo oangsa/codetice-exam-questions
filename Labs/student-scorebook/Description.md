@@ -1,5 +1,7 @@
 # Student Scorebook
 
+**Difficulty:** Medium
+
 ## Problem
 
 ให้เขียนโปรแกรมภาษา Python เพื่อสรุปคะแนนนักเรียน
