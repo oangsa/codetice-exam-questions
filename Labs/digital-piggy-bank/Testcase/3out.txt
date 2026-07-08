@@ -1,0 +1,6 @@
+Deposited 100.00 Baht to Win. Balance: 100.00 Baht.
+Deposited 50.00 Baht to Win. Balance: 150.00 Baht.
+Withdrew 25.50 Baht from Win. Balance: 124.50 Baht.
+Balance for Win: 124.50 Baht.
+Withdrew 124.50 Baht from Win. Balance: 0.00 Baht.
+Final Balance: 0.00 Baht

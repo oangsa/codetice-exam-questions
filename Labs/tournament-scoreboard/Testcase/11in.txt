@@ -1,0 +1,4 @@
+3
+Home 2 Away 0
+Away 2 Guest 0
+Guest 2 Home 0

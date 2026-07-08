@@ -1,0 +1,8 @@
+2
+A1 Laptop 32000 1
+A2 Mouse 250 5
+4
+VIEW
+ADD A1 1
+ADD A1 1
+VIEW

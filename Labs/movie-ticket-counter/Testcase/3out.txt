@@ -1,0 +1,5 @@
+Solo booked 1 VIP ticket(s). Cost: 250 Baht.
+Failed: Not enough seats for Late.
+Summary for TinyHall:
+Tickets Sold: 1/1
+Revenue: 250 Baht

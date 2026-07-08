@@ -1,0 +1,5 @@
+Restock Report:
+Tea: Order 5 units
+Coffee: OK
+Sugar: Order 14 units
+Total Units Needed: 19

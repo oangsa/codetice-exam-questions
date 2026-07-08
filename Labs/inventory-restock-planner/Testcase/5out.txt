@@ -1,0 +1,5 @@
+Restock Report:
+Rice: OK
+Egg: Order 25 units
+Milk: OK
+Total Units Needed: 25

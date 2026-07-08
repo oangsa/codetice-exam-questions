@@ -1,0 +1,4 @@
+Standings:
+A: 4 pts, GD 1, GF 3
+B: 3 pts, GD 1, GF 3
+C: 1 pts, GD -2, GF 3

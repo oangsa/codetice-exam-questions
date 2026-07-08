@@ -1,0 +1,5 @@
+3
+Tea 30 2
+Cup 45 1
+Spoon 10 3
+NONE

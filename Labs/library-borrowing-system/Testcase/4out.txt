@@ -1,0 +1,9 @@
+Failed: Book D4 not found.
+Failed: Neo did not borrow D1.
+Success: Neo borrowed Data.
+Returned: Neo returned Data.
+Failed: Neo did not borrow D1.
+Library Status:
+D1 Data: 2 available
+D2 Algo: 2 available
+D3 Web: 1 available

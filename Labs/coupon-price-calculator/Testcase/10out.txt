@@ -1,0 +1,4 @@
+Subtotal: 299.99 Baht
+Discount: 0.00 Baht
+Shipping: 40.00 Baht
+Total: 339.99 Baht

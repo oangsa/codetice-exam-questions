@@ -1,0 +1,4 @@
+Restock Report:
+X: Order 200 units
+Y: OK
+Total Units Needed: 200

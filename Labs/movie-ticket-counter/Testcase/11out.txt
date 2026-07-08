@@ -1,0 +1,7 @@
+A booked 2 ADULT ticket(s). Cost: 240 Baht.
+B booked 2 VIP ticket(s). Cost: 500 Baht.
+Failed: Not enough seats for C.
+Failed: Not enough seats for D.
+Summary for Overflow:
+Tickets Sold: 4/4
+Revenue: 740 Baht

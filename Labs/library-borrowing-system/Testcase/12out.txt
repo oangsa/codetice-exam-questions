@@ -1,0 +1,7 @@
+Success: Ann borrowed Intro.
+Failed: Ben did not borrow L1.
+Returned: Ann returned Intro.
+Success: Ben borrowed Intro.
+Library Status:
+L1 Intro: 0 available
+L2 Advanced: 1 available

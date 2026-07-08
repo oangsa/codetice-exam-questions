@@ -1,0 +1,7 @@
+Added 1 Phone to cart.
+Added 2 Case to cart.
+Cart:
+Phone: 1 x 12000.00 = 12000.00 Baht
+Case: 2 x 300.00 = 600.00 Baht
+Total: 11340.00 Baht
+Removed 1 Phone from cart.

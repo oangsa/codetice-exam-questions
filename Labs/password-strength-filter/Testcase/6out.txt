@@ -1,0 +1,6 @@
+Strong Passwords:
+Tiny123!
+Weak Passwords:
+Tiny: Too short
+TINY123!: Missing lowercase
+Summary: 1 strong, 2 weak

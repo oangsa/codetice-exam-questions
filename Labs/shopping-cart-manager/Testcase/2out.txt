@@ -1,0 +1,8 @@
+Cart:
+None
+Total: 0.00 Baht
+Added 1 Laptop to cart.
+Failed to add Laptop: Insufficient stock (Only 0 left)
+Cart:
+Laptop: 1 x 32000.00 = 32000.00 Baht
+Total: 28800.00 Baht

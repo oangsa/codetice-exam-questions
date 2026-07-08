@@ -1,0 +1,3 @@
+Milo is eating. Hunger: 10/100, Energy: 85/100
+Milo is sleeping... Zzz. Hunger: 20/100, Energy: 100/100
+Final Status: Milo the Cat - Hunger: 20/100, Energy: 100/100

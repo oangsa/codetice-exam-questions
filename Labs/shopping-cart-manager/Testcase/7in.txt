@@ -1,0 +1,10 @@
+3
+F1 Monitor 2500 2
+F2 Stand 500 2
+F3 Pad 100 10
+5
+ADD F1 1
+ADD F2 2
+ADD F3 3
+VIEW
+REMOVE F2 1

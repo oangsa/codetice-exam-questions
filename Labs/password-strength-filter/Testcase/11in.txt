@@ -1,0 +1,5 @@
+4
+Strong1!
+weak
+WeakNoDigit!
+weaknodigit!

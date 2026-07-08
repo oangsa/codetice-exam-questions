@@ -1,0 +1,5 @@
+Restock Report:
+Pen: Order 25 units
+Book: OK
+Bag: Order 10 units
+Total Units Needed: 35

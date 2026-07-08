@@ -1,0 +1,6 @@
+Failed to remove I1: Not in cart.
+Added 2 Mousepad to cart.
+Removed 1 Mousepad from cart.
+Cart:
+Mousepad: 1 x 150.00 = 150.00 Baht
+Total: 150.00 Baht

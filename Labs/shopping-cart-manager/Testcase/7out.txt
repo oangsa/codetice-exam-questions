@@ -1,0 +1,9 @@
+Added 1 Monitor to cart.
+Added 2 Stand to cart.
+Added 3 Pad to cart.
+Cart:
+Monitor: 1 x 2500.00 = 2500.00 Baht
+Stand: 2 x 500.00 = 1000.00 Baht
+Pad: 3 x 100.00 = 300.00 Baht
+Total: 3420.00 Baht
+Removed 1 Stand from cart.

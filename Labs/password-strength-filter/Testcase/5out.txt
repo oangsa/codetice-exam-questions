@@ -1,0 +1,5 @@
+Strong Passwords:
+GoodPass9#
+Weak Passwords:
+None
+Summary: 1 strong, 0 weak

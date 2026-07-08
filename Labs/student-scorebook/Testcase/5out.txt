@@ -1,0 +1,8 @@
+Score Report:
+P1: 30.00 (F)
+P2: 50.00 (D)
+P3: 60.00 (C)
+P4: 70.00 (B)
+P5: 80.00 (A)
+Average: 58.00
+Top Student: P5 80.00

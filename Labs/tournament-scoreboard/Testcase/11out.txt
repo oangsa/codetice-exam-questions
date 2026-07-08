@@ -1,0 +1,4 @@
+Standings:
+Away: 3 pts, GD 0, GF 2
+Guest: 3 pts, GD 0, GF 2
+Home: 3 pts, GD 0, GF 2

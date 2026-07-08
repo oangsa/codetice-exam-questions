@@ -1,0 +1,7 @@
+Score Report:
+A: 90.00 (A)
+B: 60.00 (C)
+C: 75.00 (B)
+D: 30.00 (F)
+Average: 63.75
+Top Student: A 90.00

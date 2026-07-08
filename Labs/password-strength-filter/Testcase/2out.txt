@@ -1,0 +1,6 @@
+Strong Passwords:
+Pass1234@
+Weak Passwords:
+NoDigit!!: Missing digit
+noupper1!: Missing uppercase
+Summary: 1 strong, 2 weak

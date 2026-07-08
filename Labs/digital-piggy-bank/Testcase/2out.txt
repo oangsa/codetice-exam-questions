@@ -1,0 +1,4 @@
+Failed: Insufficient funds in Mali's piggy bank.
+Deposited 100.50 Baht to Mali. Balance: 100.50 Baht.
+Balance for Mali: 100.50 Baht.
+Final Balance: 100.50 Baht

@@ -1,0 +1,7 @@
+Library Status:
+F1 Abook: 1 available
+F2 Zbook: 5 available
+Success: Kid borrowed Abook.
+Library Status:
+F1 Abook: 0 available
+F2 Zbook: 5 available

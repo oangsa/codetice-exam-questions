@@ -1,0 +1,7 @@
+Strong Passwords:
+None
+Weak Passwords:
+Lowercaseonly: Missing digit
+UPPERCASEONLY: Missing lowercase
+123456789: Missing lowercase
+Summary: 0 strong, 3 weak

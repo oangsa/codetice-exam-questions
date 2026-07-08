@@ -1,0 +1,5 @@
+Added 10 Sticker to cart.
+Cart:
+Sticker: 10 x 5.00 = 50.00 Baht
+Total: 50.00 Baht
+Removed 10 Sticker from cart.

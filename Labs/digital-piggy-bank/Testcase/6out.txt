@@ -1,0 +1,2 @@
+Failed: Insufficient funds in Pim's piggy bank.
+Final Balance: 0.00 Baht

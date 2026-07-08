@@ -1,0 +1,9 @@
+Pepper is playing happily! Hunger: 45/100, Energy: 55/100
+Pepper is playing happily! Hunger: 60/100, Energy: 30/100
+Pepper is playing happily! Hunger: 75/100, Energy: 5/100
+Pepper is sleeping... Zzz. Hunger: 85/100, Energy: 45/100
+Pepper is playing happily! Hunger: 100/100, Energy: 20/100
+Pepper is eating. Hunger: 80/100, Energy: 25/100
+Pepper the Bird - Hunger: 80/100, Energy: 25/100
+Pepper is playing happily! Hunger: 95/100, Energy: 0/100
+Final Status: Pepper the Bird - Hunger: 95/100, Energy: 0/100

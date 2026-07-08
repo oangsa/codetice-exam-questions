@@ -1,0 +1,5 @@
+Team booked 7 CHILD ticket(s). Cost: 560 Baht.
+Failed: Not enough seats for Extra.
+Summary for Single:
+Tickets Sold: 7/7
+Revenue: 560 Baht

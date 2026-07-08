@@ -1,0 +1,7 @@
+Boba is eating. Hunger: 10/100, Energy: 85/100
+Boba is eating. Hunger: 0/100, Energy: 90/100
+Boba is eating. Hunger: 0/100, Energy: 95/100
+Boba the Hamster - Hunger: 0/100, Energy: 95/100
+Boba is playing happily! Hunger: 15/100, Energy: 70/100
+Boba the Hamster - Hunger: 15/100, Energy: 70/100
+Final Status: Boba the Hamster - Hunger: 15/100, Energy: 70/100

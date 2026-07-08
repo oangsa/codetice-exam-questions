@@ -1,0 +1,7 @@
+Restock Report:
+P1: Order 4 units
+P2: OK
+P3: Order 6 units
+P4: OK
+P5: Order 6 units
+Total Units Needed: 16

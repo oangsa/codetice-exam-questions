@@ -1,0 +1,6 @@
+Kiki
+Bird
+3
+SLEEP
+FEED
+STATUS

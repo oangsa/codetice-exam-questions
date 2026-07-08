@@ -1,0 +1,5 @@
+Strong Passwords:
+Edge888%
+Weak Passwords:
+Edge88%: Too short
+Summary: 1 strong, 1 weak

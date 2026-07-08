@@ -1,0 +1,3 @@
+Restock Report:
+Water: Order 100 units
+Total Units Needed: 100

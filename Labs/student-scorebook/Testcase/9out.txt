@@ -1,0 +1,7 @@
+Score Report:
+S1: 50.00 (D)
+S2: 50.01 (D)
+S3: 59.99 (D)
+S4: 60.00 (C)
+Average: 55.00
+Top Student: S4 60.00

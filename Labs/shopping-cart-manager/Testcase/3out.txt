@@ -1,0 +1,7 @@
+Failed: Product B3 not found.
+Failed to add Book: Insufficient stock (Only 2 left)
+Added 2 Book to cart.
+Removed 1 Book from cart.
+Cart:
+Book: 1 x 120.00 = 120.00 Baht
+Total: 120.00 Baht

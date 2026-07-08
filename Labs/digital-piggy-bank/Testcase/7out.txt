@@ -1,0 +1,6 @@
+Deposited 10.00 Baht to Korn. Balance: 10.00 Baht.
+Withdrew 5.00 Baht from Korn. Balance: 5.00 Baht.
+Withdrew 5.00 Baht from Korn. Balance: 0.00 Baht.
+Failed: Insufficient funds in Korn's piggy bank.
+Balance for Korn: 0.00 Baht.
+Final Balance: 0.00 Baht

@@ -1,0 +1,6 @@
+Score Report:
+Red: 51.00 (D)
+Blue: 90.00 (A)
+Green: 69.00 (C)
+Average: 70.00
+Top Student: Blue 90.00

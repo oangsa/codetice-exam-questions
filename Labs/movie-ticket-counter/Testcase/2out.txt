@@ -1,0 +1,6 @@
+A booked 1 ADULT ticket(s). Cost: 120 Baht.
+B booked 2 ADULT ticket(s). Cost: 240 Baht.
+Failed: Not enough seats for C.
+Summary for CodeMovie:
+Tickets Sold: 3/3
+Revenue: 360 Baht

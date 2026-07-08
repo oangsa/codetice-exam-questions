@@ -1,0 +1,6 @@
+Failed: Not enough seats for A.
+B booked 1 CHILD ticket(s). Cost: 80 Baht.
+C booked 1 CHILD ticket(s). Cost: 80 Baht.
+Summary for ZeroFail:
+Tickets Sold: 2/2
+Revenue: 160 Baht

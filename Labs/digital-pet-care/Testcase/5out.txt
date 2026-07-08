@@ -1,0 +1,5 @@
+Luna is playing happily! Hunger: 45/100, Energy: 55/100
+Luna is sleeping... Zzz. Hunger: 55/100, Energy: 95/100
+Luna is playing happily! Hunger: 70/100, Energy: 70/100
+Luna the Rabbit - Hunger: 70/100, Energy: 70/100
+Final Status: Luna the Rabbit - Hunger: 70/100, Energy: 70/100

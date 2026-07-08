@@ -1,0 +1,6 @@
+Buddy is playing happily! Hunger: 45/100, Energy: 55/100
+Buddy is playing happily! Hunger: 60/100, Energy: 30/100
+Buddy is playing happily! Hunger: 75/100, Energy: 5/100
+Buddy is too tired to play. Let them sleep!
+Buddy the Dog - Hunger: 75/100, Energy: 5/100
+Final Status: Buddy the Dog - Hunger: 75/100, Energy: 5/100

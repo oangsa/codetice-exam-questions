@@ -1,0 +1,5 @@
+Standings:
+Beta: 5 pts, GD 2, GF 6
+Alpha: 4 pts, GD 2, GF 5
+Gamma: 3 pts, GD 0, GF 3
+Delta: 1 pts, GD -4, GF 2

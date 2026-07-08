@@ -1,0 +1,5 @@
+3
+Rice 180 2
+Egg 60 1
+Milk 55.5 2
+FREESHIP

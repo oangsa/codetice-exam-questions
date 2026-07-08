@@ -1,0 +1,9 @@
+Boba
+Hamster
+6
+FEED
+FEED
+FEED
+STATUS
+PLAY
+STATUS

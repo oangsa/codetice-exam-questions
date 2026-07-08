@@ -1,0 +1,4 @@
+Standings:
+Y: 3 pts, GD 1, GF 1
+X: 1 pts, GD 0, GF 2
+Z: 1 pts, GD -1, GF 2

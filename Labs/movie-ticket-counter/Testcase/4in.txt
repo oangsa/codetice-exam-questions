@@ -1,0 +1,7 @@
+FamilyDay
+8
+4
+Mom ADULT 2
+Kid CHILD 2
+Grand SENIOR 2
+Friend CHILD 3

@@ -1,0 +1,6 @@
+P1 booked 2 VIP ticket(s). Cost: 500 Baht.
+P2 booked 2 VIP ticket(s). Cost: 500 Baht.
+Failed: Not enough seats for P3.
+Summary for Premiere:
+Tickets Sold: 4/5
+Revenue: 1000 Baht

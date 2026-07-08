@@ -1,0 +1,8 @@
+2
+K1 Phone 12000 1
+K2 Case 300 5
+4
+ADD K1 1
+ADD K2 2
+VIEW
+REMOVE K1 1

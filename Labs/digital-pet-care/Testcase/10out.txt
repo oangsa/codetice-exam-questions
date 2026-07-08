@@ -1,0 +1,4 @@
+Sunny is playing happily! Hunger: 45/100, Energy: 55/100
+Sunny the Dog - Hunger: 45/100, Energy: 55/100
+Sunny is eating. Hunger: 25/100, Energy: 60/100
+Final Status: Sunny the Dog - Hunger: 25/100, Energy: 60/100

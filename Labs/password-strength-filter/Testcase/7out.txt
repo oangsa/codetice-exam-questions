@@ -1,0 +1,7 @@
+Strong Passwords:
+Mix3d$Pass
+Weak Passwords:
+Mix3dPass: Missing special character
+MIX3D$PASS: Missing lowercase
+mix3d$pass: Missing uppercase
+Summary: 1 strong, 3 weak

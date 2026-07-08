@@ -1,0 +1,7 @@
+Mochi
+Cat
+4
+STATUS
+FEED
+PLAY
+STATUS

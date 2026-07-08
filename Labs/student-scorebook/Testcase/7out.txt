@@ -1,0 +1,5 @@
+Score Report:
+Alpha: 0.00 (F)
+Beta: 49.99 (F)
+Average: 25.00
+Top Student: Beta 49.99

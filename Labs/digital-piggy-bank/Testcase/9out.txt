@@ -1,0 +1,4 @@
+Deposited 100.00 Baht to Ton. Balance: 100.00 Baht.
+Withdrew 100.00 Baht from Ton. Balance: 0.00 Baht.
+Balance for Ton: 0.00 Baht.
+Final Balance: 0.00 Baht

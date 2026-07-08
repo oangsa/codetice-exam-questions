@@ -1,0 +1,7 @@
+Mom booked 2 ADULT ticket(s). Cost: 240 Baht.
+Kid booked 2 CHILD ticket(s). Cost: 160 Baht.
+Grand booked 2 SENIOR ticket(s). Cost: 180 Baht.
+Failed: Not enough seats for Friend.
+Summary for FamilyDay:
+Tickets Sold: 6/8
+Revenue: 580 Baht

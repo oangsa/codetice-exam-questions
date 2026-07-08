@@ -1,0 +1,7 @@
+SpaceRun
+10
+4
+Ann ADULT 2
+Ben CHILD 3
+Cat VIP 1
+Dan SENIOR 5

@@ -1,0 +1,6 @@
+Balance for Mint: 0.00 Baht.
+Deposited 1.25 Baht to Mint. Balance: 1.25 Baht.
+Balance for Mint: 1.25 Baht.
+Withdrew 0.25 Baht from Mint. Balance: 1.00 Baht.
+Balance for Mint: 1.00 Baht.
+Final Balance: 1.00 Baht

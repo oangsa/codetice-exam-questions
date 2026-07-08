@@ -1,0 +1,3 @@
+Failed: Bob did not borrow H9.
+Success: Bob borrowed Sci.
+Failed: Bob did not borrow H9.

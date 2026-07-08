@@ -1,0 +1,9 @@
+Strong Passwords:
+Aa1!aaaa
+Bb2@bbbb
+Cc3#cccc
+Dd4$dddd
+Ee5%eeee
+Weak Passwords:
+None
+Summary: 5 strong, 0 weak

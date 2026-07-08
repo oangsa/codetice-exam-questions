@@ -1,0 +1,6 @@
+1
+G1 Sticker 5 100
+3
+ADD G1 10
+VIEW
+REMOVE G1 10

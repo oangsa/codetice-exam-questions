@@ -1,0 +1,8 @@
+Success: A borrowed ML.
+Success: B borrowed ML.
+Returned: B returned ML.
+Success: C borrowed ML.
+Success: D borrowed AI.
+Library Status:
+K1 ML: 0 available
+K2 AI: 1 available

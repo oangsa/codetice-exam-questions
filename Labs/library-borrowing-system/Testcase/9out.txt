@@ -1,0 +1,10 @@
+Success: A borrowed One.
+Success: B borrowed Two.
+Success: C borrowed Two.
+Failed: Two is not available.
+Returned: B returned Two.
+Success: D borrowed Two.
+Library Status:
+I1 One: 0 available
+I2 Two: 0 available
+I3 Three: 3 available

@@ -1,0 +1,5 @@
+Deposited 500.00 Baht to Nong. Balance: 500.00 Baht.
+Withdrew 200.00 Baht from Nong. Balance: 300.00 Baht.
+Balance for Nong: 300.00 Baht.
+Failed: Insufficient funds in Nong's piggy bank.
+Final Balance: 300.00 Baht

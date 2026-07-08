@@ -1,0 +1,8 @@
+Snow is playing happily! Hunger: 45/100, Energy: 55/100
+Snow is playing happily! Hunger: 60/100, Energy: 30/100
+Snow is sleeping... Zzz. Hunger: 70/100, Energy: 70/100
+Snow is eating. Hunger: 50/100, Energy: 75/100
+Snow is playing happily! Hunger: 65/100, Energy: 50/100
+Snow the Cat - Hunger: 65/100, Energy: 50/100
+Snow is sleeping... Zzz. Hunger: 75/100, Energy: 90/100
+Final Status: Snow the Cat - Hunger: 75/100, Energy: 90/100

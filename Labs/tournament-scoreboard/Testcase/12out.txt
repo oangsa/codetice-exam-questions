@@ -1,0 +1,5 @@
+Standings:
+R: 7 pts, GD 2, GF 3
+Q: 4 pts, GD 1, GF 3
+P: 4 pts, GD 0, GF 4
+S: 1 pts, GD -3, GF 3

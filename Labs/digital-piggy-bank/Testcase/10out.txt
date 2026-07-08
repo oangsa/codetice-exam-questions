@@ -1,0 +1,8 @@
+Deposited 20.00 Baht to Prae. Balance: 20.00 Baht.
+Failed: Insufficient funds in Prae's piggy bank.
+Deposited 30.00 Baht to Prae. Balance: 50.00 Baht.
+Withdrew 10.00 Baht from Prae. Balance: 40.00 Baht.
+Balance for Prae: 40.00 Baht.
+Withdrew 40.00 Baht from Prae. Balance: 0.00 Baht.
+Balance for Prae: 0.00 Baht.
+Final Balance: 0.00 Baht

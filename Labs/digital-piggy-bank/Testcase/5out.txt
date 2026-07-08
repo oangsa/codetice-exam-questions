@@ -1,0 +1,7 @@
+Deposited 1000.00 Baht to Beam. Balance: 1000.00 Baht.
+Withdrew 999.99 Baht from Beam. Balance: 0.01 Baht.
+Balance for Beam: 0.01 Baht.
+Failed: Insufficient funds in Beam's piggy bank.
+Deposited 5.00 Baht to Beam. Balance: 5.01 Baht.
+Balance for Beam: 5.01 Baht.
+Final Balance: 5.01 Baht

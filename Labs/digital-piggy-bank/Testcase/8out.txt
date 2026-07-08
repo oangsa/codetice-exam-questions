@@ -1,0 +1,5 @@
+Deposited 12.34 Baht to May. Balance: 12.34 Baht.
+Deposited 0.66 Baht to May. Balance: 13.00 Baht.
+Withdrew 3.00 Baht from May. Balance: 10.00 Baht.
+Balance for May: 10.00 Baht.
+Final Balance: 10.00 Baht

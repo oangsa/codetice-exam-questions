@@ -1,0 +1,9 @@
+3
+C1 Chair 700 2
+C2 Desk 900 1
+C3 Mat 150 5
+4
+ADD C1 1
+ADD C2 1
+VIEW
+REMOVE C1 1

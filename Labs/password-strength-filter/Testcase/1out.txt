@@ -1,0 +1,7 @@
+Strong Passwords:
+Abcdef1!
+Weak Passwords:
+short1!: Too short
+ABCDEFG1!: Missing lowercase
+abcdefg1!: Missing uppercase
+Summary: 1 strong, 3 weak

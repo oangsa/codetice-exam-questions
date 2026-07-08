@@ -1,0 +1,5 @@
+Failed to add Bottle: Insufficient stock (Only 0 left)
+Added 4 Cup to cart.
+Cart:
+Cup: 4 x 45.00 = 180.00 Baht
+Total: 180.00 Baht

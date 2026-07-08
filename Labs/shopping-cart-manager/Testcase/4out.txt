@@ -1,0 +1,7 @@
+Added 1 Chair to cart.
+Added 1 Desk to cart.
+Cart:
+Chair: 1 x 700.00 = 700.00 Baht
+Desk: 1 x 900.00 = 900.00 Baht
+Total: 1440.00 Baht
+Removed 1 Chair from cart.

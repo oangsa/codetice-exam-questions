@@ -1,0 +1,4 @@
+3
+Tea 7 8 12
+Coffee 8 8 12
+Sugar 6 7 20

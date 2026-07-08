@@ -1,0 +1,4 @@
+Restock Report:
+Phone: Order 1 units
+Case: OK
+Total Units Needed: 1

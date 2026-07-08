@@ -1,0 +1,7 @@
+Success: Ann borrowed Python.
+Success: Ben borrowed Python.
+Failed: Python is not available.
+Returned: Ann returned Python.
+Library Status:
+B01 Python: 1 available
+B02 Math: 1 available

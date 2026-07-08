@@ -1,0 +1,6 @@
+Library Status:
+A1 Novel: 1 available
+Success: Mali borrowed Novel.
+Failed: Novel is not available.
+Library Status:
+A1 Novel: 0 available

@@ -1,0 +1,4 @@
+Standings:
+Tigers: 4 pts, GD 2, GF 8
+Lions: 4 pts, GD -2, GF 3
+Bears: 2 pts, GD 0, GF 3

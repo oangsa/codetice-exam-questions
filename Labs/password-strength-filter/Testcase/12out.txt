@@ -1,0 +1,5 @@
+Strong Passwords:
+Aaaaaaa1!
+Weak Passwords:
+Aaaaaaa1?: Missing special character
+Summary: 1 strong, 1 weak

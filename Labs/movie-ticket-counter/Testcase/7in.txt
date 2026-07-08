@@ -1,0 +1,8 @@
+Mixed
+6
+5
+A CHILD 1
+B ADULT 1
+C SENIOR 1
+D VIP 1
+E ADULT 3

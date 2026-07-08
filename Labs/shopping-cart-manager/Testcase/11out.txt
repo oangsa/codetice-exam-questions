@@ -1,0 +1,14 @@
+Added 2 Soda to cart.
+Added 3 Chips to cart.
+Added 5 Candy to cart.
+Cart:
+Soda: 2 x 20.00 = 40.00 Baht
+Chips: 3 x 30.00 = 90.00 Baht
+Candy: 5 x 10.00 = 50.00 Baht
+Total: 180.00 Baht
+Removed 2 Chips from cart.
+Cart:
+Soda: 2 x 20.00 = 40.00 Baht
+Chips: 1 x 30.00 = 30.00 Baht
+Candy: 5 x 10.00 = 50.00 Baht
+Total: 120.00 Baht

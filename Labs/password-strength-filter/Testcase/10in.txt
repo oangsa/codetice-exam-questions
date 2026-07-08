@@ -1,0 +1,4 @@
+3
+Lowercaseonly
+UPPERCASEONLY
+123456789

@@ -1,0 +1,9 @@
+Pudding
+Cat
+6
+SLEEP
+SLEEP
+FEED
+FEED
+STATUS
+PLAY

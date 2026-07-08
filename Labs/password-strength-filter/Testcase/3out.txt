@@ -1,0 +1,5 @@
+Strong Passwords:
+A1!bcdef
+Weak Passwords:
+A1!bcde: Too short
+Summary: 1 strong, 1 weak

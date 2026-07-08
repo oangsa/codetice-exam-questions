@@ -1,0 +1,11 @@
+Added 2 Notebook to cart.
+Added 1 Bag to cart.
+Cart:
+Notebook: 2 x 35.00 = 70.00 Baht
+Bag: 1 x 450.00 = 450.00 Baht
+Total: 520.00 Baht
+Removed 1 Notebook from cart.
+Cart:
+Notebook: 1 x 35.00 = 35.00 Baht
+Bag: 1 x 450.00 = 450.00 Baht
+Total: 485.00 Baht

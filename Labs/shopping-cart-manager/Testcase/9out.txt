@@ -1,0 +1,11 @@
+Added 3 Shirt to cart.
+Added 2 Hat to cart.
+Cart:
+Shirt: 3 x 350.00 = 1050.00 Baht
+Hat: 2 x 199.00 = 398.00 Baht
+Total: 1303.20 Baht
+Removed 1 Shirt from cart.
+Cart:
+Shirt: 2 x 350.00 = 700.00 Baht
+Hat: 2 x 199.00 = 398.00 Baht
+Total: 988.20 Baht

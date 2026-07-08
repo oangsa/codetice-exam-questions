@@ -1,0 +1,6 @@
+Success: A borrowed Bio.
+Success: A borrowed Bio.
+Returned: A returned Bio.
+Returned: A returned Bio.
+Library Status:
+E1 Bio: 2 available

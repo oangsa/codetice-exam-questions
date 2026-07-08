@@ -1,0 +1,4 @@
+Group booked 20 ADULT ticket(s). Cost: 2400 Baht.
+Summary for Morning:
+Tickets Sold: 20/20
+Revenue: 2400 Baht

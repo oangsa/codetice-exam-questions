@@ -1,0 +1,4 @@
+Aom
+2
+CHECK
+DEPOSIT 0

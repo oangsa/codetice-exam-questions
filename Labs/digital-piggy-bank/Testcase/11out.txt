@@ -1,0 +1,5 @@
+Deposited 9999.99 Baht to Earth. Balance: 9999.99 Baht.
+Withdrew 1234.56 Baht from Earth. Balance: 8765.43 Baht.
+Withdrew 8765.43 Baht from Earth. Balance: 0.00 Baht.
+Balance for Earth: 0.00 Baht.
+Final Balance: 0.00 Baht

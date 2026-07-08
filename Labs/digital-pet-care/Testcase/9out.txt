@@ -1,0 +1,7 @@
+Pudding is sleeping... Zzz. Hunger: 40/100, Energy: 100/100
+Pudding is sleeping... Zzz. Hunger: 50/100, Energy: 100/100
+Pudding is eating. Hunger: 30/100, Energy: 100/100
+Pudding is eating. Hunger: 10/100, Energy: 100/100
+Pudding the Cat - Hunger: 10/100, Energy: 100/100
+Pudding is playing happily! Hunger: 25/100, Energy: 75/100
+Final Status: Pudding the Cat - Hunger: 25/100, Energy: 75/100

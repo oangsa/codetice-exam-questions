@@ -1,0 +1,6 @@
+Success: P borrowed Thai.
+Success: P borrowed Eng.
+Returned: P returned Thai.
+Library Status:
+G1 Thai: 1 available
+G2 Eng: 0 available

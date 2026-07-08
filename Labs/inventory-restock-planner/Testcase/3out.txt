@@ -1,0 +1,4 @@
+Restock Report:
+Mouse: Order 8 units
+Keyboard: Order 7 units
+Total Units Needed: 15

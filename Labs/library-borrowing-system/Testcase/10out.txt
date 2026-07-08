@@ -1,0 +1,3 @@
+Library Status:
+J1 Java: 0 available
+Failed: Java is not available.

@@ -1,0 +1,7 @@
+A booked 1 ADULT ticket(s). Cost: 120 Baht.
+B booked 1 ADULT ticket(s). Cost: 120 Baht.
+C booked 1 ADULT ticket(s). Cost: 120 Baht.
+D booked 1 ADULT ticket(s). Cost: 120 Baht.
+Summary for Limit:
+Tickets Sold: 4/4
+Revenue: 480 Baht

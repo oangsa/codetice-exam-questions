@@ -1,0 +1,6 @@
+Restock Report:
+Mask: Order 35 units
+Gel: OK
+Glove: Order 25 units
+Soap: OK
+Total Units Needed: 60

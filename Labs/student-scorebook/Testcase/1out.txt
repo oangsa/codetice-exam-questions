@@ -1,0 +1,6 @@
+Score Report:
+Ann: 90.00 (A)
+Ben: 60.00 (C)
+Cara: 45.00 (F)
+Average: 65.00
+Top Student: Ann 90.00

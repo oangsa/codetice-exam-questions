@@ -1,0 +1,6 @@
+Restock Report:
+A: Order 5 units
+B: OK
+C: Order 8 units
+D: OK
+Total Units Needed: 13

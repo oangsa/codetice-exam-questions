@@ -1,0 +1,7 @@
+2
+F2 Zbook 5
+F1 Abook 1
+3
+STATUS
+BORROW Kid F1
+STATUS

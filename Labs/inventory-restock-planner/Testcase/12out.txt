@@ -1,0 +1,5 @@
+Restock Report:
+Aaa: Order 1 units
+Bbb: OK
+Ccc: OK
+Total Units Needed: 1

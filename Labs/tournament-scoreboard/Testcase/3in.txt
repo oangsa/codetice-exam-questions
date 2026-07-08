@@ -1,0 +1,5 @@
+4
+Lions 2 Tigers 1
+Bears 0 Lions 0
+Tigers 3 Bears 3
+Lions 1 Tigers 4

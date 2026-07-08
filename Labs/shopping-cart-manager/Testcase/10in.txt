@@ -1,0 +1,8 @@
+2
+I1 Keyboard 890 1
+I2 Mousepad 150 2
+4
+REMOVE I1 1
+ADD I2 2
+REMOVE I2 1
+VIEW

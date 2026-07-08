@@ -1,0 +1,5 @@
+Standings:
+Four: 3 pts, GD 5, GF 5
+Three: 2 pts, GD 0, GF 2
+Two: 2 pts, GD 0, GF 2
+One: 2 pts, GD -5, GF 2

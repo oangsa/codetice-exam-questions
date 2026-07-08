@@ -1,0 +1,8 @@
+A booked 2 CHILD ticket(s). Cost: 160 Baht.
+B booked 2 ADULT ticket(s). Cost: 240 Baht.
+C booked 2 SENIOR ticket(s). Cost: 180 Baht.
+D booked 2 VIP ticket(s). Cost: 500 Baht.
+E booked 2 CHILD ticket(s). Cost: 160 Baht.
+Summary for Revenue:
+Tickets Sold: 10/10
+Revenue: 1240 Baht

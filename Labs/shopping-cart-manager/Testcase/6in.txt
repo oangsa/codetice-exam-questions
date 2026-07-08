@@ -1,0 +1,7 @@
+2
+E1 Bottle 80 0
+E2 Cup 45 4
+3
+ADD E1 1
+ADD E2 4
+VIEW

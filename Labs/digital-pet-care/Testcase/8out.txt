@@ -1,0 +1,6 @@
+Nori is eating. Hunger: 10/100, Energy: 85/100
+Nori is playing happily! Hunger: 25/100, Energy: 60/100
+Nori is playing happily! Hunger: 40/100, Energy: 35/100
+Nori is playing happily! Hunger: 55/100, Energy: 10/100
+Nori is too tired to play. Let them sleep!
+Final Status: Nori the Fox - Hunger: 55/100, Energy: 10/100

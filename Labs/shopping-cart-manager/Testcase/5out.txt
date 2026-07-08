@@ -1,0 +1,10 @@
+Added 5 Cable to cart.
+Removed 2 Cable from cart.
+Failed to remove Cable: Only 3 in cart.
+Cart:
+Cable: 3 x 99.99 = 299.97 Baht
+Total: 299.97 Baht
+Removed 3 Cable from cart.
+Cart:
+None
+Total: 0.00 Baht

@@ -1,0 +1,4 @@
+Kiki is sleeping... Zzz. Hunger: 40/100, Energy: 100/100
+Kiki is eating. Hunger: 20/100, Energy: 100/100
+Kiki the Bird - Hunger: 20/100, Energy: 100/100
+Final Status: Kiki the Bird - Hunger: 20/100, Energy: 100/100

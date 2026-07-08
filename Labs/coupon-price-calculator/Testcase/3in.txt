@@ -1,0 +1,5 @@
+3
+Snack 20 5
+Drink 15 4
+Cake 80 1
+SAVE50
