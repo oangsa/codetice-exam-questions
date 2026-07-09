@@ -1,0 +1,3 @@
+coconut 3
+lime 2
+cherry 1

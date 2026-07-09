@@ -1,0 +1,4 @@
+zebra 1
+apple 1
+xylophone 1
+banana 1
