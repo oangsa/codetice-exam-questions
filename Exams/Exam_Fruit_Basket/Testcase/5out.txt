@@ -1,0 +1,5 @@
+kiwi 1
+grape 1
+melon 1
+pear 1
+plum 1

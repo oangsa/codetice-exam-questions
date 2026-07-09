@@ -1,0 +1,3 @@
+SingleReturn
+1
+return
